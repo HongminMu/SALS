@@ -26,9 +26,6 @@ Our method significantly outperforms the state of the art on the following datas
 
 ## Code Release
 Our code will be released publicly soon! 🚀🚀🚀
-
-![Rocket Launch](https://img.icons8.com/external-flat-juicy-fish/50/000000/rocket.png) ![Rocket Launch](https://img.icons8.com/external-flat-juicy-fish/50/000000/rocket.png) ![Rocket Launch](https://img.icons8.com/external-flat-juicy-fish/50/000000/rocket.png)
-
 Stay tuned for updates and detailed documentation on how to use our method!
 
 ## Contact
