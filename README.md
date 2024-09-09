@@ -19,7 +19,7 @@ Accurate segmentation in low-light scenes is challenging due to severe domain sh
 Our method significantly outperforms the state of the art on the following datasets:
 
 ### Dark Zurich
-![Dark_Zurich_ICRA2025](https://github.com/user-attachments/assets/4a35411e-66f1-4d68-ab55-8909275a81e8)
+![Dark_Zurich_ICRA2025](https://github.com/user-attachments/assets/bee5d8ac-5690-44bf-a472-e5f17faa4d44)
 
 ### Nighttime Driving
 ![Nighttime_Driving_ICRA2025](https://github.com/user-attachments/assets/9b150ddc-7538-4169-bfed-812c91ae5df1)
