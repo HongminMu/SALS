@@ -3,7 +3,8 @@
 ## Overview
 This project focuses on adapting the SAM model to handle low-light scenes more effectively. By addressing illumination issues, our method enhances the performance of semantic segmentation in challenging lighting conditions.
 
-![Example Image](images/ours.jpg)
+![image](https://github.com/user-attachments/assets/c91e01dd-7493-480f-b5ee-552184cfd2f4)
+
 
 ## Method
 Accurate segmentation in low-light scenes is challenging due to severe domain shifts when models trained on daylight data are applied to such scenes and the lack of large-scale fine-grained labels under low-light conditions. To tackle these challenges, we propose the following methods:
