@@ -27,11 +27,6 @@ import cv2
 
 
 #  --input_dir C:\Users\11385\Desktop\24-06-18
-
-# --input_dir C:\Users\11385\Desktop\LLimages4_2  ICRA下面
-
-# --input_dir C:\Users\11385\Desktop\24-08-11\output\refine  ICRA上面
-
 # --input_dir C:\Users\11385\Desktop\24-05-23\2025-02-06\converted_jpeg
 
 
