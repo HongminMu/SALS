@@ -4,6 +4,7 @@
 This project focuses on adapting the SAM model to handle low-light scenes more effectively. By addressing illumination issues, our method enhances the performance of semantic segmentation in challenging lighting conditions.
 
 ![image](https://github.com/user-attachments/assets/c91e01dd-7493-480f-b5ee-552184cfd2f4)
+![ours](https://github.com/user-attachments/assets/ae9c2db7-0ea1-433d-9809-94f714873477)
 
 
 ## Method
@@ -18,11 +19,12 @@ Accurate segmentation in low-light scenes is challenging due to severe domain sh
 ## Results
 Our method significantly outperforms the state of the art on the following datasets:
 
-### Dark Zurich
+### Dark Zurich and ACDC
 ![Dark_Zurich_ICRA2025](https://github.com/user-attachments/assets/bee5d8ac-5690-44bf-a472-e5f17faa4d44)
 
 ### Nighttime Driving
-![Nighttime_Driving_ICRA2025](https://github.com/user-attachments/assets/9b150ddc-7538-4169-bfed-812c91ae5df1)
+![Nighttime_Driving_Contrast_5](https://github.com/user-attachments/assets/c9523cf3-3fdb-4ef2-a84e-ac1546e9d52d)
+
 
 ## Code Release
 Our code will be released publicly soon! 🚀🚀🚀
