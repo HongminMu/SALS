@@ -25,8 +25,8 @@ Our method significantly outperforms the state of the art on the following datas
 
 
 ## Code Release
-Our code will be released publicly soon! 🚀🚀🚀
-Stay tuned for updates and detailed documentation on how to use our method!
+Our code is now publicly available! 🚀🚀🚀
+Check out the repository for updates and detailed documentation on how to use our method!
 
 ## Contact
 For any inquiries or feedback, please contact [hongmin_mu@163.com](mailto:hongmin_mu@163.com).
